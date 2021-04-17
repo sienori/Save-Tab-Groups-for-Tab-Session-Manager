@@ -1,0 +1,13 @@
+{
+  "name": "Save Tab Groups for Tab Session Manager",
+  "description": "Additional extension for saving tab groups in Tab Session Manager",
+  "version": "1.0.1",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {},
+  "permissions": [
+    "tabGroups"
+  ]
+}
