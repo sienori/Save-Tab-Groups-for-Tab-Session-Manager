@@ -9,5 +9,8 @@
   "action": {},
   "permissions": [
     "tabGroups"
-  ]
+  ],
+  "icons": {
+    "128": "icon.png"
+  }
 }
